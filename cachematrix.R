@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## A functions that solves the inverse of a matrix and cache its result for future use.
 
 ## A function that creates a matrix
 
